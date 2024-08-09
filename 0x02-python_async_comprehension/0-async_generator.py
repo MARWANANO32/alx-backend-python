@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Creates a generator"""
+"""Creates a generator that asynchronously waits 1 second,"""
 import asyncio
 import random
 from typing import Generator
